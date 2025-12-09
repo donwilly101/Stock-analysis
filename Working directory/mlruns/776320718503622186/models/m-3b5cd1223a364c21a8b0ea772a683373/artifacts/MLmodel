@@ -1,0 +1,32 @@
+artifact_path: file:///C:/Users/user/Desktop/Data%20Science%20Full%20Stack/Amdari/Intenship/Working%20directory/mlruns/776320718503622186/models/m-3b5cd1223a364c21a8b0ea772a683373/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.5
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: ubj
+    xgb_version: 3.0.5
+is_signature_from_type_hint: false
+mlflow_version: 3.6.0
+model_id: m-3b5cd1223a364c21a8b0ea772a683373
+model_size_bytes: 3708876
+model_uuid: m-3b5cd1223a364c21a8b0ea772a683373
+prompts: null
+run_id: c244a6b96bd94d579690edc28afba10b
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: ndarray
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 12]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-11-26 04:38:59.271110'

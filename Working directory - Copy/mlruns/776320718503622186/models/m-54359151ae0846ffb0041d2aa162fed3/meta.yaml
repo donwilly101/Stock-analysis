@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/user/Desktop/Data%20Science%20Full%20Stack/Amdari/Intenship/Working%20directory/mlruns/776320718503622186/models/m-54359151ae0846ffb0041d2aa162fed3/artifacts
+creation_timestamp: 1765039534431
+experiment_id: '776320718503622186'
+last_updated_timestamp: 1765039565473
+model_id: m-54359151ae0846ffb0041d2aa162fed3
+model_type: null
+name: xgb_model
+source_run_id: a6e15b89b1a3406e90f53a60bb9f538e
+status: 2
+status_message: null

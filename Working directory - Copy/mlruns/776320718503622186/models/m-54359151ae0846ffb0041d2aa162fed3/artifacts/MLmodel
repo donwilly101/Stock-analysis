@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/user/Desktop/Data%20Science%20Full%20Stack/Amdari/Intenship/Working%20directory/mlruns/776320718503622186/models/m-54359151ae0846ffb0041d2aa162fed3/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.13.5
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: ubj
+    xgb_version: 3.0.5
+mlflow_version: 3.6.0
+model_id: m-54359151ae0846ffb0041d2aa162fed3
+model_size_bytes: 940293
+model_uuid: m-54359151ae0846ffb0041d2aa162fed3
+prompts: null
+run_id: a6e15b89b1a3406e90f53a60bb9f538e
+utc_time_created: '2025-12-06 16:45:34.829606'

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/user/Desktop/Data%20Science%20Full%20Stack/Amdari/Intenship/Working%20directory/mlruns/776320718503622186/dc916deb024e4dc5a120e6612440d138/artifacts
+end_time: 1764131113599
+entry_point_name: ''
+experiment_id: '776320718503622186'
+lifecycle_stage: active
+run_id: dc916deb024e4dc5a120e6612440d138
+run_name: xgboost_tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764131113489
+status: 4
+tags: []
+user_id: user

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/user/Desktop/Data%20Science%20Full%20Stack/Amdari/Intenship/Working%20directory/mlruns/776320718503622186/models/m-4d079fc981244e5a8e9a22e48699ae40/artifacts
+creation_timestamp: 1764973150530
+experiment_id: '776320718503622186'
+last_updated_timestamp: 1764973180546
+model_id: m-4d079fc981244e5a8e9a22e48699ae40
+model_type: null
+name: model
+source_run_id: 61defc010f0b4857885c5ba45ca94e8d
+status: 2
+status_message: null
